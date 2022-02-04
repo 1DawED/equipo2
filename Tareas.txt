@@ -1,0 +1,3 @@
+Bueno, asi nos vamos a organizar.
+Vamos a crear cada uno una rama de desarrollo con nuestro nombre.
+Despues de eso indicare la siguente tarea para cada uno.
